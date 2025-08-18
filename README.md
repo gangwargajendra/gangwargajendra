@@ -2,9 +2,9 @@ Hi there, I'm Gajendra Gangwar 👋
 I'm a passionate and driven Computer Science and Engineering student at the Indian Institute of Information Technology, Guwahati. I have a strong interest in Machine Learning, Deep Learning, and problem-solving. I'm always eager to learn new technologies and apply them to real-world problems.
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/gangwargajendra">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGajendra-Gangwar%26show_icons%3Dtrue%26theme%3Dradical" alt="Gajendra's GitHub Stats"/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DGajendra-Gangwar%26theme%3Dradical" alt="Gajendra's GitHub Streak"/>
+<a href="https://github.com/gangwargajendra">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgangwargajendra%26show_icons%3Dtrue%26theme%3Dradical" alt="Gajendra's GitHub Stats"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dgangwargajendra%26theme%3Dradical" alt="Gajendra's GitHub Streak"/>
 </a>
 </p>
 
@@ -112,7 +112,7 @@ Core Team Member, Entropy 2024: Contributed to the success of a major technical 
 
 📊 My GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGajendra-Gangwar%26layout%3Dcompact%26theme%3Dradical" alt="Top Langs" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgangwargajendra%26layout%3Dcompact%26theme%3Dradical" alt="Top Langs" />
 </p>
 
 📬 Get In Touch
