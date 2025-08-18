@@ -1,78 +1,62 @@
 Hi there, I'm Gajendra Gangwar 👋
-I'm a passionate and driven Computer Science and Engineering student at the Indian Institute of Information Technology, Guwahati. I have a strong interest in Machine Learning, Deep Learning, and problem-solving. I'm always eager to learn new technologies and apply them to real-world problems.
+I am a computer science student at the Indian Institute of Information Technology, Guwahati.
 
-<p align="center">
-<a href="https://github.com/gangwargajendra">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgangwargajendra%26show_icons%3Dtrue%26theme%3Dradical" alt="Gajendra's GitHub Stats"/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dgangwargajendra%26theme%3Dradical" alt="Gajendra's GitHub Streak"/>
+I am currently looking for internship or part-time opportunities to apply and enhance my software development and AI skills.
+
+🎓 Education
+Bachelor of Technology [Computer Science and Engineering]
+Indian Institute of Information Technology, Guwahati (IIITG) | Aug 2023 - Present
+CPI: 8.33
+
+💻 Technical Skills
+Programming Languages
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++" />
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</a>
+<a href="https://www.mysql.com/" target="blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C(programming_language)" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
 </a>
 </p>
 
-👨‍💻 About Me
-🎓 I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering from IIIT Guwahati (2023-2027).
-
-🌱 I'm currently learning more about Deep Learning and its applications in computer vision.
-
-👯 I’m looking to collaborate on projects related to Machine Learning, Artificial Intelligence, and Web Development.
-
-📫 How to reach me: gangwargajendra8700@gmail.com
-
-📄 Know about my experiences from my Resume
-
-⚡ Fun fact: I love to play chess and solve puzzles in my free time.
-
-🛠️ My Skills
-Languages:
-
+Frameworks & Libraries
 <p align="left">
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-</p>
-
-Frameworks and Libraries:
-
-<p align="left">
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy" />
 </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Matplotlib-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dmatplotlib%26logoColor%3Dwhite" alt="Matplotlib" />
 </a>
 </p>
 
-Developer Tools:
-
+Tools & Platforms
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-<a href="https://www.jupyter.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
-</a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/jetbrains_pycharm/jetbrains_pycharm-icon.svg" alt="pycharm" width="40" height="40"/>
-</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-VS%2520Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VS Code" />
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" />
 </a>
 </p>
 
@@ -101,23 +85,20 @@ An interactive snake game with dynamic obstacles, food collection, and a real-ti
 
 Python, Turtle Graphics
 
-🏆 Achievements
-LeetCode: Achieved a rating of 1600+ and solved over 360+ problems.
-
-GeeksforGeeks: Solved 70+ problems on algorithms and data structures.
-
-Sports Club Coordinator at IIIT Guwahati: Led and organized various sports events and intra-college tournaments.
-
-Core Team Member, Entropy 2024: Contributed to the success of a major technical fest at IIIT Guwahati.
-
-📊 My GitHub Stats
+GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgangwargajendra%26layout%3Dcompact%26theme%3Dradical" alt="Top Langs" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgangwargajendra%26count_private%3Dtrue%26show_icons%3Dtrue%26theme%3Dradical" alt="Gajendra's GitHub Stats" />
+<br/>
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgangwargajendra%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
 </p>
 
-📬 Get In Touch
+📫 Contact Me
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/gajendra-gangwar/" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajendra-gangwar" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://www.leetcode.com/Gajendra_Gangwar/" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gajendra-gangwar" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://www.geeksforgeeks.org/user/gangwargajendra8700/" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gangwargajendra8700" height="30" width="40" /></a>
+<a href="mailto:gangwargajendra8700@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/gajendra-gangwar/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
 </p>
