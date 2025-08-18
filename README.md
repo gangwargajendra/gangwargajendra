@@ -77,8 +77,8 @@ Custom snake game with dynamic obstacles, scoring, and progressive difficulty.
 ---
 
 ## 🏆 Achievements
-- **Competitive Programming:** 1600+ rating; 360+ solved problems on LeetCode.  
-- 70+ DSA problems solved on GeeksforGeeks.
+- **Competitive Programming:** 1600+ rating; 380+ solved problems on LeetCode.  
+- 80+ DSA problems solved on GeeksforGeeks.
 
 ---
 
@@ -88,15 +88,4 @@ Custom snake game with dynamic obstacles, scoring, and progressive difficulty.
 [![LeetCode](https://img.shields.io/badge/LeetCode-g_h_l87-FF6A00?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/g_h_l87/)  
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-g_h_l87-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/g_h_l87/)
 
----
-
-## 🔭 Currently learning
-- Advanced computer vision techniques and model interpretability  
-- Efficient training strategies for large models
-
----
-
-> If you'd like, I can also:
-> - create a lighter mobile-friendly version, or  
-> - generate a polished `profile README` banner image (SVG) for the top.
 
