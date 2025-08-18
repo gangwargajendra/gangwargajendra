@@ -1,21 +1,14 @@
 <!-- README.md for Gajendra Gangwar -->
-# Hi there 👋 I'm **Gajendra Gangwar**
-
-<p align="center">
-  <a href="https://github.com/gangwargajendra">
-    <img alt="Gajendra - GitHub" src="https://github-readme-stats.vercel.app/api?username=gangwargajendra&show_icons=true&count_private=true&theme=tokyonight" />
-  </a>
-</p>
-
-**B.Tech — Computer Science & Engineering** @ IIIT Guwahati • Passionate about Machine Learning, Deep Learning, and building production-ready ML apps.  
-Currently open to internships & part-time roles.
+# Hi there 👋 
+- I am computer science student at Indian Institue of Information Technology Guwahati.
+- I am currently lokking for internship or part-time opportunities to apply and enhance my skills.
 
 ---
 
-## 🔭 About Me
-- 🎓 B.Tech (CSE), IIIT Guwahati — CPI: **8.33** (Class of 2027)  
-- 💡 Interests: Deep Learning, Computer Vision, Reinforcement Learning, Optimization Algorithms  
-- 🛠️ Enjoy building ML projects, demos, and small tools that make experiments reproducible
+## 🎓 Education
+- Bachelor of Technology [Computer Science and Engineering] \n
+  Indian Institute of Information Technology, Guwahati (IIITG) | Aug 2023 - Present\n 
+  CGPA: 8.30
 
 ---
 
@@ -70,6 +63,13 @@ Custom snake game with dynamic obstacles, scoring, and progressive difficulty.
 ---
 
 ## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/gangwargajendra">
+    <img alt="Gajendra - GitHub" src="https://github-readme-stats.vercel.app/api?username=gangwargajendra&show_icons=true&count_private=true&theme=tokyonight" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangwargajendra&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
