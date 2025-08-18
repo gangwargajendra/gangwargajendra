@@ -61,29 +61,26 @@ Tools & Platforms
 </p>
 
 🚀 My Projects
-Project Title
+<details>
+<summary><strong>NeuroVision: Brain Tumor MRI Classifier</strong></summary>
+<p>A deep learning model to classify brain MRI images into four categories (glioma, meningioma, pituitary, no tumor) with high accuracy. Features an interactive Flask web app for real-time predictions and visualizations of training progress.</p>
+<p><strong>Technologies:</strong> Python, TensorFlow, Keras, Flask, Matplotlib</p>
+<a href="#">View Project</a>
+</details>
 
-Description
+<details>
+<summary><strong>Lunar Lander AI Trainer</strong></summary>
+<p>Implemented both Genetic Algorithm (GA) and Particle Swarm Optimization (PSO) to optimize a linear policy for the OpenAI Gym LunarLander-v3 environment. Accelerated training using Python's multiprocessing to achieve high scores.</p>
+<p><strong>Technologies:</strong> Python, Gymnasium, NumPy</p>
+<a href="#">View Project</a>
+</details>
 
-Technologies Used
-
-NeuroVision: Brain Tumor MRI Classifier
-
-A deep learning model to classify brain MRI images into four categories with high accuracy. Features an interactive Flask web app for real-time predictions.
-
-Python, TensorFlow, Keras, Flask, Matplotlib
-
-Lunar Lander AI Trainer
-
-Implemented Genetic Algorithm and Particle Swarm Optimization to train an agent for the OpenAI Gym LunarLander-v3 environment, achieving high scores through parallel processing.
-
-Python, Gymnasium, NumPy
-
-Snake Game
-
-An interactive snake game with dynamic obstacles, food collection, and a real-time scoring system, built using Python's Turtle graphics library.
-
-Python, Turtle Graphics
+<details>
+<summary><strong>Snake Game</strong></summary>
+<p>An interactive snake game developed using Python and the Turtle graphics library, featuring dynamic obstacles, food collection, real-time score tracking, and progressive difficulty.</p>
+<p><strong>Technologies:</strong> Python, Turtle Graphics</p>
+<a href="#">View Project</a>
+</details>
 
 GitHub Stats
 <p align="center">
@@ -96,9 +93,9 @@ GitHub Stats
 📫 Contact Me
 <p align="center">
 <a href="mailto:gangwargajendra8700@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail"/>
 </a>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/gajendra-gangwar/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 </p>
