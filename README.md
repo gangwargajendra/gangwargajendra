@@ -8,7 +8,7 @@
 ## 🎓 Education
 - **Bachelor of Technology (Computer Science & Engineering)**  
   Indian Institute of Information Technology, Guwahati (IIITG) | Aug 2023 – Present  
-  **CGPA:** 8.30
+  **CGPA:** 8.33
 
 ---
 
