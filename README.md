@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 ### NeuroVision — Brain Tumor MRI Classifier
 **Tech:** Python, TensorFlow, Keras, Flask, Pandas, Matplotlib  
 Built a CNN-based classifier for 4 MRI categories (glioma, meningioma, pituitary, no tumor). Trained on Kaggle dataset and validated on an independent dataset — **reported up to 98.5% accuracy**. Includes a Flask web demo for inference.  
